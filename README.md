@@ -3,7 +3,7 @@ Simple way to mark and rate projects on Bullx. All locally in your browser. Sour
 
 Verified by Chrome Extension store 
 Avaliable here: https://chromewebstore.google.com/detail/bullxnotes
-You may also download it from here and instal in to your browser locally as a developer
+_You may also download it from here and instal in to your browser locally as a developer_
 
 All the best and more profitable trades
 
