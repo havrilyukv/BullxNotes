@@ -9,7 +9,7 @@
 - 🔍 Identify new tokens you haven’t checked yet (notes and marks stay visible even if the token moves to another column).  
 
 ✅ **Verified by Chrome Extension Store**  
-📥 **Available here:** [Chrome Web Store Link](https://chromewebstore.google.com/detail/bullxnotes)  
+📥 **Available here:** ([Chrome Web Store Link](https://chromewebstore.google.com/detail/bullxnotes/hjnncoklnipiapahdhhbegohhaoiakik))  
 
 _Alternatively, you can download it directly and install it into your browser locally as a developer._  
 
